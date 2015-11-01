@@ -1,0 +1,23 @@
+name: The-Valve Amplifiers
+favicon: null
+layout_spectrum: 0.19161834777332842
+typography_spectrum: 0.1705760038457811
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.11913609900511801
+  lightness: 0.19803596450947225
+  saturation: 0.260687212459743
+  rhythmicContrast: 0.3257463981863111
+purpose: []
